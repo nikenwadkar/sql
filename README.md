@@ -1,0 +1,2 @@
+# Inventory-Management-System-with-PostgreSQL
+This PostgreSQL code represents a simple inventory management system. The code includes the creation of a table called "products" with columns for product ID, name, quantity, and price. Sample data is inserted into the table, representing three products. The code demonstrates how to retrieve all products, update the quantity of a specific product, delete a product from the inventory, and calculate the total value of the inventory based on the quantity and price of each product.
